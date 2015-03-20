@@ -6,7 +6,7 @@ public class Main {
 		
 		//TODO main flow
 		System.out.println("Hello git, How are you");
-		System.out.println("I am fine, thanks");
+		System.out.println("I am slave");
 	
 	}
 
