@@ -5,6 +5,7 @@ public class Main {
 	public Main() {
 		
 		//TODO main flow
+		System.out.println("Hello git");
 	
 	}
 
