@@ -1,0 +1,23 @@
+{
+  "name": "therm_proxy",
+  "version": "1.0.0",
+  "description": "Proxy for the floor thermostat",
+  "main": "therm_proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonic48/hulinada.git"
+  },
+  "keywords": [
+    "thermostat",
+    "proxy"
+  ],
+  "author": "A.Tsyvyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonic48/hulinada/issues"
+  },
+  "homepage": "https://github.com/tonic48/hulinada#readme"
+}
